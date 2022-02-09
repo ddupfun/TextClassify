@@ -4,3 +4,6 @@
 *.ptx
 *.cubin
 *.fatbin
+processed_data/*
+pretrained_model/*
+*.bin
